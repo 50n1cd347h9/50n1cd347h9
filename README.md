@@ -2,7 +2,7 @@
 e-mail: 50n1cd347h9@proton.me<br>
 
 [TryHackMe](https://tryhackme.com/r/p/sonicdeath9) <br>
-[gists](https://gist.github.com/50n1cd347h9)
+[Github gists](https://gist.github.com/50n1cd347h9)
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=50n1cd347h9&layout=compact&theme=gruvbox&card_height=240px)](https://github.com/anuraghazra/github-readme-stats)
