@@ -1,7 +1,6 @@
 ### Hi there 👋
 e-mail: 50n1cd347h9@proton.me<br>
 
-[TryHackMe](https://tryhackme.com/r/p/sonicdeath9) <br>
 [Github gists](https://gist.github.com/50n1cd347h9)
 <br>
 
